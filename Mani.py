@@ -9,4 +9,4 @@ def fibonacci_series(count):
 		numbers.append(first)
 		first, second = second, first + second
 	return numbers
-git 
+git status is fine
